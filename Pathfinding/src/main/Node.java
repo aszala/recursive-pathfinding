@@ -11,7 +11,7 @@ public class Node {
 	
 	public Node (Point position) {
 		this.position = position;
-		
+		 
 	}
 	
 
